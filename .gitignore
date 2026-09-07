@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Binaries
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Android Profiler
+*.trace
+
+# Kotlin
+*.kt.bak
+
+# Generated
+gen/
+out/
+.externalNativeBuild/
+.cxx/
+
+# Misc
+.env
+*.log
+.vscode/
